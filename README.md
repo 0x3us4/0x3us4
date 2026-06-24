@@ -123,17 +123,6 @@ const osama: FullStackEngineer = {
 </div>
 
 <h2><img src="https://img.icons8.com/fluency/48/line-chart.png" height="28" align="center" alt="" /> &nbsp;Contribution Graph</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0x3us4&theme=react-dark&bg_color=0D1117&color=4F46E5&line=00C9FF&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/0x3us4/0x3us4/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-
-</div>
-
  
 
 <h2><img src="https://img.icons8.com/fluency/48/handshake.png" height="28" align="center" alt="" /> &nbsp;Connect With Me</h2>
